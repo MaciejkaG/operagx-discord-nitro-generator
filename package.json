@@ -1,0 +1,14 @@
+{
+  "name": "discord-nitro-generator-real",
+  "version": "1.0.0",
+  "description": "VERI REAL DISCORD NITRO GEN IT WORKS !!!!1111",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
